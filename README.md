@@ -1,5 +1,5 @@
 # Project
-This repository contains the code for a clone of the Time webpage. The clone includes two files: project.html and style.css. The project was assigned to me by TekMonks.
+This repository contains the code for a clone of the Time webpage and fetches the live latest stories form time website and stores it in json format.
 
 Project Structure:
 
@@ -12,9 +12,6 @@ Fetchs the latest stories form time website and stores it in Json format.
 stories.json:
 
 Stores the latest stories in json format
-
-Usage:
-To use or view the Time webpage clone, you can simply open the project.html file in a web browser. The browser will render the HTML and apply the CSS styles defined in the style.css file.
 
 Credits:
 
