@@ -1,0 +1,80 @@
+.top_header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 5%;
+}
+header {
+  font-size: 39px;
+  margin-left: 10px;
+  color: red;
+}
+.input_search {
+  margin-right: 5%;
+}
+input {
+  padding: 5px;
+  border: none;
+}
+input:focus {
+  padding: 5px;
+  border: none;
+}
+.main_body {
+  display: flex;
+}
+.right {
+  
+  display: flex;
+  flex: 0.3;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: column;
+  background-color: yellow;
+  height: 100vh;
+ 
+  
+}
+.right div > ul > li {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  text-decoration: solid;
+  color: red;
+}
+.container {
+  display: flex;
+  flex: 0.7;
+  flex-direction: column;
+  padding-left: 10%;
+}
+.card_view {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  width: 43%;
+  
+}
+h2{
+  color: red;
+}
+h3{
+  color: black;
+}
+p{
+  color:red;
+}
