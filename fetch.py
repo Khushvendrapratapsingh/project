@@ -35,6 +35,6 @@ if response.status_code == 200:
 
         print("Data saved to stories.json file.")
     else:
-        print("Error: Failed to find any story matches in the HTML content.")
+        print("Error: No story matches found in the HTML content.")
 else:
     print("Error: Failed to retrieve the website content.")
