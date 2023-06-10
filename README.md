@@ -9,6 +9,10 @@ style.css: This file contains the CSS styling for the Time webpage clone. It is 
 fetch.py:
 Fetchs the latest stories form time website and stores it in Json format.
 
+stories.json:
+
+Stores the latest stories in json format
+
 Usage:
 To use or view the Time webpage clone, you can simply open the project.html file in a web browser. The browser will render the HTML and apply the CSS styles defined in the style.css file.
 
