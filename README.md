@@ -6,6 +6,9 @@ Project Structure:
 project.html: This file contains the HTML structure and content of the Time webpage clone. It includes the header, main content class .
 style.css: This file contains the CSS styling for the Time webpage clone. It is used to define the layout, colors, and other visual aspects of the webpage.
 
+fetch.py:
+Fetchs the latest stories form time website and stores it in Json format.
+
 Usage:
 To use or view the Time webpage clone, you can simply open the project.html file in a web browser. The browser will render the HTML and apply the CSS styles defined in the style.css file.
 
