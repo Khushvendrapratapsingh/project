@@ -1,4 +1,4 @@
-# project
+# Project
 This repository contains the code for a clone of the Time webpage. The clone includes two files: project.html and style.css. The project was assigned to me by TekMonks.
 
 Project Structure:
