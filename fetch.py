@@ -1,7 +1,8 @@
 import requests
-import re
-import urllib3
 import json
+import urllib3
+import re
+
 
 # Disable SSL certificate verification warning
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
