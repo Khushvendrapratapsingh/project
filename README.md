@@ -20,3 +20,6 @@ Credits:
 
 The original Time webpage design and content belong to Time magazine (https://time.com).
 This clone project is created by Khushvendra Pratap Singh as part of a task assigned by TekMonks.
+
+
+<img width="776" alt="get_request_1" src="https://github.com/Khushvendrapratapsingh/project/assets/136144390/79ae3cb8-6db4-4c37-8322-308821f47135">
