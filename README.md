@@ -13,6 +13,9 @@ stories.json:
 
 Stores the latest stories in json format
 
+api.py
+compiled the whole code, and built a custom API hosted on localhost, which will response to GET requests and returns lateset stories in JSON format.
+
 Credits:
 
 The original Time webpage design and content belong to Time magazine (https://time.com).
